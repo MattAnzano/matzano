@@ -6,7 +6,7 @@
 - find me/contact me at the links below
 
 ![LinkedIn](C:\Users\Matthew\Documents\softwareEngineeringII\matzano\imgs\bannerpicture.jpg)
-![Gmail](imgs\icons8-linkedin-48 (1).png)
+![Gmail](imgs/icons8-gmail-48.png)
 
 #### Programming Languages I use
 ![Python]
