@@ -1,4 +1,4 @@
-##### Hi, I'm Matt: 
+###### Hi, I'm Matt: 
 
 - Current Student at Montclair State University
 - Graduating with a degree in B.S. in Computer Science
@@ -31,10 +31,11 @@
 
 
 #### Some of my interests!
-- Outdoors
-- Skiing 
-- swimming
-- gamer
-- Soccer
-- Football
-- Hockey
+- :sunny: Outdoors
+- :ski: Skiing 
+- :swimmer: swimming
+- :video_game: gamer
+- :soccer: Soccer
+- :football: Football
+- :golf: Golf
+- :headphones: Music
