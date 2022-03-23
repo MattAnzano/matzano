@@ -1,11 +1,11 @@
 ![Header](imgs/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 ## Hi, I'm Matt: 
----
+
 - Current Student at Montclair State University
-- Graduating with a degree in B.S. in Computer Science
-- 
-- find me/contact me at the links below
+- Graduating with a B.S. in Computer Science
+- Always looking to collaborate on opensource projects
+- Find me/contact me at the links below
 
 [![LinkedIn](imgs/icons8-linkedin-48%20(1).png)](https://www.linkedin.com/in/matthew-anzano/)
 [![Gmail](imgs/icons8-gmail-48.png)](mailto:m99anzano@gmail.com)
