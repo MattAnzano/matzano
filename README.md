@@ -1,3 +1,5 @@
+![Header](imgs/bannerpicture.jpg)
+
 ###### Hi, I'm Matt: 
 
 - Current Student at Montclair State University
