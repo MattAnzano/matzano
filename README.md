@@ -5,7 +5,7 @@
 - Current Student at Montclair State University
 - Graduating with a B.S. in Computer Science
 - Always looking to collaborate on opensource projects
-- Find me/contact me at the links below
+- Find/contact me at the links below
 
 [![LinkedIn](imgs/icons8-linkedin-48%20(1).png)](https://www.linkedin.com/in/matthew-anzano/)
 [![Gmail](imgs/icons8-gmail-48.png)](mailto:m99anzano@gmail.com)
